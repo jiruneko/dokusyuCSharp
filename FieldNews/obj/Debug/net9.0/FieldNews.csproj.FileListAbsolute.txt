@@ -1,0 +1,5 @@
+/Users/nagatsukakenji/C#/dokusyuu/FieldNews/obj/Debug/net9.0/FieldNews.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/FieldNews/obj/Debug/net9.0/FieldNews.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/FieldNews/obj/Debug/net9.0/FieldNews.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/FieldNews/obj/Debug/net9.0/FieldNews.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/FieldNews/obj/Debug/net9.0/FieldNews.sourcelink.json

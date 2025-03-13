@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/box/bin/Debug/net9.0/box
+/Users/nagatsukakenji/C#/dokusyuu/box/bin/Debug/net9.0/box.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/box/bin/Debug/net9.0/box.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/box/bin/Debug/net9.0/box.dll
+/Users/nagatsukakenji/C#/dokusyuu/box/bin/Debug/net9.0/box.pdb
+/Users/nagatsukakenji/C#/dokusyuu/box/obj/Debug/net9.0/box.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/box/obj/Debug/net9.0/box.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/box/obj/Debug/net9.0/box.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/box/obj/Debug/net9.0/box.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/box/obj/Debug/net9.0/box.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/box/obj/Debug/net9.0/box.dll
+/Users/nagatsukakenji/C#/dokusyuu/box/obj/Debug/net9.0/refint/box.dll
+/Users/nagatsukakenji/C#/dokusyuu/box/obj/Debug/net9.0/box.pdb
+/Users/nagatsukakenji/C#/dokusyuu/box/obj/Debug/net9.0/box.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/box/obj/Debug/net9.0/ref/box.dll

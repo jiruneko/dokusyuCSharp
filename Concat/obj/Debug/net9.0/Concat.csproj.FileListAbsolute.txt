@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/Concat/obj/Debug/net9.0/Concat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/Concat/obj/Debug/net9.0/Concat.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/Concat/obj/Debug/net9.0/Concat.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/Concat/obj/Debug/net9.0/Concat.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/Concat/obj/Debug/net9.0/Concat.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/Concat/bin/Debug/net9.0/Concat
+/Users/nagatsukakenji/C#/dokusyuu/Concat/bin/Debug/net9.0/Concat.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/Concat/bin/Debug/net9.0/Concat.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/Concat/bin/Debug/net9.0/Concat.dll
+/Users/nagatsukakenji/C#/dokusyuu/Concat/bin/Debug/net9.0/Concat.pdb
+/Users/nagatsukakenji/C#/dokusyuu/Concat/obj/Debug/net9.0/Concat.dll
+/Users/nagatsukakenji/C#/dokusyuu/Concat/obj/Debug/net9.0/refint/Concat.dll
+/Users/nagatsukakenji/C#/dokusyuu/Concat/obj/Debug/net9.0/Concat.pdb
+/Users/nagatsukakenji/C#/dokusyuu/Concat/obj/Debug/net9.0/Concat.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/Concat/obj/Debug/net9.0/ref/Concat.dll
