@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/Compare/bin/Debug/net9.0/Compare
+/Users/nagatsukakenji/C#/dokusyuu/Compare/bin/Debug/net9.0/Compare.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/Compare/bin/Debug/net9.0/Compare.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/Compare/bin/Debug/net9.0/Compare.dll
+/Users/nagatsukakenji/C#/dokusyuu/Compare/bin/Debug/net9.0/Compare.pdb
+/Users/nagatsukakenji/C#/dokusyuu/Compare/obj/Debug/net9.0/Compare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/Compare/obj/Debug/net9.0/Compare.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/Compare/obj/Debug/net9.0/Compare.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/Compare/obj/Debug/net9.0/Compare.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/Compare/obj/Debug/net9.0/Compare.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/Compare/obj/Debug/net9.0/Compare.dll
+/Users/nagatsukakenji/C#/dokusyuu/Compare/obj/Debug/net9.0/refint/Compare.dll
+/Users/nagatsukakenji/C#/dokusyuu/Compare/obj/Debug/net9.0/Compare.pdb
+/Users/nagatsukakenji/C#/dokusyuu/Compare/obj/Debug/net9.0/Compare.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/Compare/obj/Debug/net9.0/ref/Compare.dll
