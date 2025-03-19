@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/set3/obj/Debug/net9.0/set3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/set3/obj/Debug/net9.0/set3.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/set3/obj/Debug/net9.0/set3.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/set3/obj/Debug/net9.0/set3.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/set3/obj/Debug/net9.0/set3.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/set3/bin/Debug/net9.0/set3
+/Users/nagatsukakenji/C#/dokusyuu/set3/bin/Debug/net9.0/set3.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/set3/bin/Debug/net9.0/set3.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/set3/bin/Debug/net9.0/set3.dll
+/Users/nagatsukakenji/C#/dokusyuu/set3/bin/Debug/net9.0/set3.pdb
+/Users/nagatsukakenji/C#/dokusyuu/set3/obj/Debug/net9.0/set3.dll
+/Users/nagatsukakenji/C#/dokusyuu/set3/obj/Debug/net9.0/refint/set3.dll
+/Users/nagatsukakenji/C#/dokusyuu/set3/obj/Debug/net9.0/set3.pdb
+/Users/nagatsukakenji/C#/dokusyuu/set3/obj/Debug/net9.0/set3.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/set3/obj/Debug/net9.0/ref/set3.dll
