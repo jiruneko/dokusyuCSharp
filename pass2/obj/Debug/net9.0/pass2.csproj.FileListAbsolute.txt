@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/pass2/bin/Debug/net9.0/pass2
+/Users/nagatsukakenji/C#/dokusyuu/pass2/bin/Debug/net9.0/pass2.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/pass2/bin/Debug/net9.0/pass2.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/pass2/bin/Debug/net9.0/pass2.dll
+/Users/nagatsukakenji/C#/dokusyuu/pass2/bin/Debug/net9.0/pass2.pdb
+/Users/nagatsukakenji/C#/dokusyuu/pass2/obj/Debug/net9.0/pass2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/pass2/obj/Debug/net9.0/pass2.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/pass2/obj/Debug/net9.0/pass2.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/pass2/obj/Debug/net9.0/pass2.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/pass2/obj/Debug/net9.0/pass2.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/pass2/obj/Debug/net9.0/pass2.dll
+/Users/nagatsukakenji/C#/dokusyuu/pass2/obj/Debug/net9.0/refint/pass2.dll
+/Users/nagatsukakenji/C#/dokusyuu/pass2/obj/Debug/net9.0/pass2.pdb
+/Users/nagatsukakenji/C#/dokusyuu/pass2/obj/Debug/net9.0/pass2.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/pass2/obj/Debug/net9.0/ref/pass2.dll

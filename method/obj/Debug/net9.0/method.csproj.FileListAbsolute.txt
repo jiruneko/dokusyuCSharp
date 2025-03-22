@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/method/obj/Debug/net9.0/method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/method/obj/Debug/net9.0/method.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/method/obj/Debug/net9.0/method.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/method/obj/Debug/net9.0/method.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/method/obj/Debug/net9.0/method.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/method/bin/Debug/net9.0/method
+/Users/nagatsukakenji/C#/dokusyuu/method/bin/Debug/net9.0/method.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/method/bin/Debug/net9.0/method.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/method/bin/Debug/net9.0/method.dll
+/Users/nagatsukakenji/C#/dokusyuu/method/bin/Debug/net9.0/method.pdb
+/Users/nagatsukakenji/C#/dokusyuu/method/obj/Debug/net9.0/method.dll
+/Users/nagatsukakenji/C#/dokusyuu/method/obj/Debug/net9.0/refint/method.dll
+/Users/nagatsukakenji/C#/dokusyuu/method/obj/Debug/net9.0/method.pdb
+/Users/nagatsukakenji/C#/dokusyuu/method/obj/Debug/net9.0/method.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/method/obj/Debug/net9.0/ref/method.dll

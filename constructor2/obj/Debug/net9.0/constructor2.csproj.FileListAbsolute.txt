@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/bin/Debug/net9.0/constructor2
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/bin/Debug/net9.0/constructor2.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/bin/Debug/net9.0/constructor2.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/bin/Debug/net9.0/constructor2.dll
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/bin/Debug/net9.0/constructor2.pdb
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/obj/Debug/net9.0/constructor2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/obj/Debug/net9.0/constructor2.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/obj/Debug/net9.0/constructor2.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/obj/Debug/net9.0/constructor2.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/obj/Debug/net9.0/constructor2.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/obj/Debug/net9.0/constructor2.dll
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/obj/Debug/net9.0/refint/constructor2.dll
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/obj/Debug/net9.0/constructor2.pdb
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/obj/Debug/net9.0/constructor2.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/constructor2/obj/Debug/net9.0/ref/constructor2.dll

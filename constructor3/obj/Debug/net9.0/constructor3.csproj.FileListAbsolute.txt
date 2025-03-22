@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/bin/Debug/net9.0/constructor3
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/bin/Debug/net9.0/constructor3.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/bin/Debug/net9.0/constructor3.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/bin/Debug/net9.0/constructor3.dll
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/bin/Debug/net9.0/constructor3.pdb
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/obj/Debug/net9.0/constructor3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/obj/Debug/net9.0/constructor3.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/obj/Debug/net9.0/constructor3.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/obj/Debug/net9.0/constructor3.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/obj/Debug/net9.0/constructor3.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/obj/Debug/net9.0/constructor3.dll
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/obj/Debug/net9.0/refint/constructor3.dll
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/obj/Debug/net9.0/constructor3.pdb
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/obj/Debug/net9.0/constructor3.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/constructor3/obj/Debug/net9.0/ref/constructor3.dll

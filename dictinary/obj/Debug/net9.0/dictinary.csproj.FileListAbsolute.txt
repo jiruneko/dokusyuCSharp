@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/bin/Debug/net9.0/dictinary
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/bin/Debug/net9.0/dictinary.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/bin/Debug/net9.0/dictinary.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/bin/Debug/net9.0/dictinary.dll
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/bin/Debug/net9.0/dictinary.pdb
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/obj/Debug/net9.0/dictinary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/obj/Debug/net9.0/dictinary.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/obj/Debug/net9.0/dictinary.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/obj/Debug/net9.0/dictinary.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/obj/Debug/net9.0/dictinary.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/obj/Debug/net9.0/dictinary.dll
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/obj/Debug/net9.0/refint/dictinary.dll
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/obj/Debug/net9.0/dictinary.pdb
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/obj/Debug/net9.0/dictinary.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/dictinary/obj/Debug/net9.0/ref/dictinary.dll

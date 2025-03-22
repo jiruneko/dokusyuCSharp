@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/constructor/bin/Debug/net9.0/constructor
+/Users/nagatsukakenji/C#/dokusyuu/constructor/bin/Debug/net9.0/constructor.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/constructor/bin/Debug/net9.0/constructor.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/constructor/bin/Debug/net9.0/constructor.dll
+/Users/nagatsukakenji/C#/dokusyuu/constructor/bin/Debug/net9.0/constructor.pdb
+/Users/nagatsukakenji/C#/dokusyuu/constructor/obj/Debug/net9.0/constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/constructor/obj/Debug/net9.0/constructor.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/constructor/obj/Debug/net9.0/constructor.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/constructor/obj/Debug/net9.0/constructor.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/constructor/obj/Debug/net9.0/constructor.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/constructor/obj/Debug/net9.0/constructor.dll
+/Users/nagatsukakenji/C#/dokusyuu/constructor/obj/Debug/net9.0/refint/constructor.dll
+/Users/nagatsukakenji/C#/dokusyuu/constructor/obj/Debug/net9.0/constructor.pdb
+/Users/nagatsukakenji/C#/dokusyuu/constructor/obj/Debug/net9.0/constructor.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/constructor/obj/Debug/net9.0/ref/constructor.dll

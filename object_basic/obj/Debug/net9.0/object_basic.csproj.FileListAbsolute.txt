@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/obj/Debug/net9.0/object_basic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/obj/Debug/net9.0/object_basic.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/obj/Debug/net9.0/object_basic.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/obj/Debug/net9.0/object_basic.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/obj/Debug/net9.0/object_basic.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/bin/Debug/net9.0/object_basic
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/bin/Debug/net9.0/object_basic.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/bin/Debug/net9.0/object_basic.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/bin/Debug/net9.0/object_basic.dll
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/bin/Debug/net9.0/object_basic.pdb
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/obj/Debug/net9.0/object_basic.dll
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/obj/Debug/net9.0/refint/object_basic.dll
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/obj/Debug/net9.0/object_basic.pdb
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/obj/Debug/net9.0/object_basic.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/object_basic/obj/Debug/net9.0/ref/object_basic.dll

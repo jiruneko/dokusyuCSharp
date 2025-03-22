@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nagatsukakenji/C#/dokusyuu/argument/argument.csproj": {}
+  },
+  "projects": {
+    "/Users/nagatsukakenji/C#/dokusyuu/argument/argument.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nagatsukakenji/C#/dokusyuu/argument/argument.csproj",
+        "projectName": "argument",
+        "projectPath": "/Users/nagatsukakenji/C#/dokusyuu/argument/argument.csproj",
+        "packagesPath": "/Users/nagatsukakenji/.nuget/packages/",
+        "outputPath": "/Users/nagatsukakenji/C#/dokusyuu/argument/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nagatsukakenji/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/Cellar/dotnet/9.0.101/libexec/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/9.0.101/libexec/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

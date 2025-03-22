@@ -1,0 +1,5 @@
+/Users/nagatsukakenji/C#/dokusyuu/FieldStatic/obj/Debug/net9.0/FieldStatic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/FieldStatic/obj/Debug/net9.0/FieldStatic.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/FieldStatic/obj/Debug/net9.0/FieldStatic.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/FieldStatic/obj/Debug/net9.0/FieldStatic.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/FieldStatic/obj/Debug/net9.0/FieldStatic.sourcelink.json

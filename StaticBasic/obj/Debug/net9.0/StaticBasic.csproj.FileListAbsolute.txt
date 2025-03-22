@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/bin/Debug/net9.0/StaticBasic
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/bin/Debug/net9.0/StaticBasic.deps.json
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/bin/Debug/net9.0/StaticBasic.runtimeconfig.json
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/bin/Debug/net9.0/StaticBasic.dll
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/bin/Debug/net9.0/StaticBasic.pdb
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/obj/Debug/net9.0/StaticBasic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/obj/Debug/net9.0/StaticBasic.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/obj/Debug/net9.0/StaticBasic.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/obj/Debug/net9.0/StaticBasic.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/obj/Debug/net9.0/StaticBasic.sourcelink.json
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/obj/Debug/net9.0/StaticBasic.dll
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/obj/Debug/net9.0/refint/StaticBasic.dll
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/obj/Debug/net9.0/StaticBasic.pdb
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/obj/Debug/net9.0/StaticBasic.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/dokusyuu/StaticBasic/obj/Debug/net9.0/ref/StaticBasic.dll
